@@ -1,5 +1,5 @@
 number=int(input())
-temp=num
+temp=number
 new=0
 while num:
     rem=number%10
