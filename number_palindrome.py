@@ -1,10 +1,10 @@
-num=int(input())
+number=int(input())
 temp=num
 new=0
 while num:
     rem=num%10
     new=new*10+rem
-    num//=10
+    number//=10
 if temp==new:
     print("yes")
 else:
