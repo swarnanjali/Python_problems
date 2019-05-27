@@ -1,7 +1,7 @@
 number=int(input())
 temp=number
 new=0
-while num:
+while numer:
     rem=number%10
     new=new*10+rem
     number//=10
